@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.task {
+  text-align: left;
+}
+
+.task h3 {
+  text-align: center;
+}
+
+.task form {
+  max-width: 600px;
+  margin: 3rem auto;
+}
+
+.task form label {
+  font-weight: bold;
+}
+
+.task form select {
+  width: 100%;
+  margin-left: 0.5rem;
+}
